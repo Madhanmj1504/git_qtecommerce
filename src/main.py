@@ -4,3 +4,6 @@ def is_wipro_employee():
 def logout():
     pass
     
+def login_with_facebook():
+    pass
+    
