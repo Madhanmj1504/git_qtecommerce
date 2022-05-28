@@ -3,3 +3,6 @@ this also edited by madhan
 def isvalidauser():
     pass 
     
+def logout():
+    pass
+    
